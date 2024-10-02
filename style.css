@@ -2,3 +2,10 @@ body {
   background: linear-gradient(rgb(97, 30, 61), rgb(26, 24, 27));
   color: aliceblue;
 }
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: top;
+  background-color: black;
+}
