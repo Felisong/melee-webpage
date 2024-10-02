@@ -12,6 +12,7 @@ header {
   width: 100%;
   background-color: black;
   font-family: "Fira Sans", sans-serif;
+  font-size: larger;
   color: aliceblue;
 }
 .video-header {
@@ -19,7 +20,7 @@ header {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  margin: 5%;
+  margin: 2%;
 }
 
 .video-header iframe {
