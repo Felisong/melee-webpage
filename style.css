@@ -11,4 +11,6 @@ header {
   justify-content: center;
   width: 100%;
   background-color: black;
+  font-family: "Fira Sans", sans-serif;
+  color: aliceblue;
 }
