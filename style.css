@@ -17,8 +17,16 @@ header {
 }
 .quote {
   display: flex;
+  flex-direction: row;
   justify-content: center;
+  align-items: center;
   font-size: 150%;
+  font-family: "montserrat";
+  background-color: rgb(36, 53, 100);
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
 }
 .video-header {
   display: flex;
