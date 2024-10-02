@@ -15,6 +15,11 @@ header {
   font-size: larger;
   color: aliceblue;
 }
+.quote {
+  display: flex;
+  justify-content: center;
+  font-size: 150%;
+}
 .video-header {
   display: flex;
   flex-direction: row;
