@@ -14,3 +14,15 @@ header {
   font-family: "Fira Sans", sans-serif;
   color: aliceblue;
 }
+.video-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 5%;
+}
+
+.video-header iframe {
+  width: 60%;
+  aspect-ratio: 16 / 9;
+}
