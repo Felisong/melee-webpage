@@ -1,11 +1,14 @@
-body {
+body,
+html {
   background: linear-gradient(rgb(97, 30, 61), rgb(26, 24, 27));
   color: aliceblue;
+  margin: 0;
+  padding: 0;
 }
 header {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  align-items: top;
+  width: 100%;
   background-color: black;
 }
