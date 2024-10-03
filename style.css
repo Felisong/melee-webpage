@@ -125,3 +125,37 @@ td {
   border: 2px solid #ddd;
   padding: 10px;
 }
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #000000;
+  margin-top: 5%;
+  height: 35vh;
+  font-family: "montserrat";
+}
+.footer-note {
+  margin: 5%;
+  margin-left: 20%;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 3%;
+  margin-right: 20%;
+}
+input[type="text"],
+input[type="email"] {
+  width: 100%; /* Makes fields full width of their container */
+  padding: 12px 20px; /* Increases internal spacing */
+  font-size: 16px; /* Increases text size */
+  margin-bottom: 10px; /* Adds space between fields */
+}
+input[type="submit"],
+button {
+  padding: 12px 24px;
+  font-size: 14px;
+}
