@@ -89,3 +89,9 @@ section {
 .call-to-action a:visited {
   color: #240521;
 }
+.section2 {
+  display: flex;
+  margin-top: 5%;
+  justify-content: space-between;
+  align-items: center;
+}
