@@ -43,3 +43,4 @@ Carolinahs100@gmail.com
 
 I made mostly everything myself but had used perplexity.ai pretty intensively to figure out how some things worked.
 I took the icons from [here](<https://www.ssbwiki.com/Category:Head_icons_(SSBM)>)
+i took fonts from google.
