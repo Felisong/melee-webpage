@@ -42,7 +42,7 @@ header {
   justify-content: baseline;
   align-items: center;
   margin: 2%;
-  margin-left: 2%;
+  margin-left: 4%;
   width: 300%;
 }
 .video-header iframe {
@@ -55,7 +55,6 @@ section {
   justify-content: center;
   align-items: center;
   margin-right: 10%;
-  margin-left: 5%;
   font-family: "montserrat";
   background-color: #240521;
   padding: 5%;
@@ -74,17 +73,18 @@ section {
   padding-left: 5%;
   padding-right: 5%;
   padding-top: 2%;
-  padding-bottom: 2%;
+  padding-bottom: 4%;
   border-radius: 20px;
   background-color: #f1d867;
   font-size: x-large;
+  font-family: "Fira Sans";
   color: rgb(53, 9, 9);
 }
 .call-to-action a {
-  color: #0f0000;
+  color: #010053;
 }
 .call-to-action a:hover {
-  color: #240521;
+  color: #ff0000;
 }
 .call-to-action a:visited {
   color: #240521;
