@@ -10,7 +10,7 @@ Table of Contents
 ## Technology Used
 
 - HTML
-- CSS I hope
+- CSS
 
 ### Cloning this Repository
 
@@ -38,3 +38,7 @@ git clone https://github.com/USERNAME/REPOSITORY.git
 ### Contact Me
 
 Carolinahs100@gmail.com
+
+### Credit
+
+I made mostly everything myself but had used perplexity.ai pretty intensively to figure out how some things worked.
